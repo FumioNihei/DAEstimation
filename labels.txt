@@ -1,0 +1,50 @@
+Label Name
+1)	Backchannel
+2)	Stall
+3)	Fragment
+4)	Inform
+5)	Elicit-Inform
+6)	Suggest
+7)	Offer
+8)	Elicit offer-or-suggestion
+9)	Assess
+10)	Comment-about-Understanding
+11)	Elicit Assessment
+12)	Elicit-Comment-About-Understanding
+13)	Be Positive
+14)	Be Negative
+15)	OTHER
+
+
+Backchannel
+Stall
+Fragment
+Inform
+Elicit-Inform
+Suggest
+Offer
+Elicit offer-or-suggestion
+Assess
+Comment-about-Understanding
+Elicit Assessment
+Elicit-Comment-About-Understanding
+Be Positive
+Be Negative
+OTHER
+
+
+1) Backchannel
+2) Stall
+3) Fragment
+4) Inform
+5) Elicit-Inform
+6) Suggest
+7) Offer
+8) Elicit offer-or-suggestion
+9) Assess
+10) Comment-about-Understanding
+11) Elicit Assessment
+12) Elicit-Comment-About-Understanding
+13) Be Positive
+14) Be Negative
+15) OTHER

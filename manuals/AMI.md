@@ -1,3 +1,21 @@
+# Table of Contents
+- [`Backchannel`](#Backchannel)
+- [Stall](#Stall)
+- [Fragment](#Fragment)
+- [Inform](#Inform)
+- [Elicit-Inform](#Elicit-Inform)
+- [Suggest](#Suggest)
+- [Offer](#Offer)
+- [Elicit offer-or-suggestion](#Elicit-offer-or-suggestion)
+- [Assess](#Assess)
+- [Comment-about-Understanding](#Comment-about-Understanding)
+- [Elicit Assessment](#Elicit-Assessment)
+- [Elicit-Comment-About-Understanding](#Elicit-Comment-About-Understanding)
+- [Be Positive](#Be-Positive)
+- [Be Negative](#Be-Negative)
+- [OTHER](#OTHER)
+
+
 # Special Labels
 話者の意図を伝えない，特殊なラベル群．
 

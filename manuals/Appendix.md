@@ -89,9 +89,9 @@ AMIラベルのラベリングを行う際には，質問マインドマップ�
 ## `action` とは何ですか？ `information` との違いについて教えてください．
 すでに述べたように，行動は肉体的なもの(行く，食べる，参加する，キャンセルする)だけでなく， 「決断する」 ， 「考える」 ， 「考える」 といった精神的なものでもある． 
 
-## 4つの`eliciting`
+# 付録3）4つの`eliciting`
 
-相手の発言を要求する`eliciting`について4つの異なるラベルを定義た．簡単な概要を以下に示す．
+相手の発言を要求する`eliciting`について4つの異なるラベルを定義した．簡単な概要を以下に示す．
 
 - `Elicit-Inform`（事実，情報）：発言者は**情報**を求める
     - セーラームーンとは何ですか？映画ですか？
@@ -107,20 +107,3 @@ AMIラベルのラベリングを行う際には，質問マインドマップ�
     - 彼にはガールフレンドが2人いるんだって．1人じゃない，2人だ．
 
 
-## `Comment-About-Understanding` vs. `Elicit-Comment-About-Understanding`
-
-**あっているかどうか確認！！！**
-
-以下の文は`Comment-About-Understanding`である．
-```
-パンはアレルギーを引き起こすから危ない，ってさっき言ったと思う． <Comment-About-Understanding>
-```
-
-一方以下の文は`Elicit-Comment-About-Understanding`である．
-```
-パンはアレルギーを引き起こすから危ない，ってさっき言ったと思うけど，覚えてる？ <Elicit-Comment-About-Understanding>
-```
-
-`Comment-About-Understanding`には自身あるいは他者の以前の発言を再確認する意図がある．
-
-一方で`Elicit-Comment-About-Understanding`には自身あるいは他者の以前の発言を，対話相手がどのように受け取った（or 把握した or 理解した）かを確認する意図がある．

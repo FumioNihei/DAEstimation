@@ -48,3 +48,41 @@ OTHER
 13) Be Positive
 14) Be Negative
 15) OTHER
+
+
+
+Backchannel
+Stall
+Fragment
+Inform
+Elicit-Inform: Propositional Question
+Elicit-Inform: Check Question
+Elicit-Inform: Choice Questions
+Elicit-Inform: Set Question
+Suggest
+Offer
+Elicit offer-or-suggestion
+Assess: Agreement
+Assess: Disagreement
+Assess: Correction
+Assess: Answer
+Assess: Disconfirm
+Assess: Confirm
+Comment-about-Understanding
+Elicit Assessment: Propositional Question
+Elicit Assessment: Check Question
+Elicit Assessment: Choice Questions
+Elicit Assessment: Set Question
+Elicit-Comment-About-Understanding
+Be Positive: Initial Greeting
+Be Positive: Return Greeting
+Be Positive: Initial Self-introduction
+Be Positive: Return Self-introduction
+Be Positive: Apology
+Be Positive: Accept Apology
+Be Positive: Thanking
+Be Positive: Accept Thanking
+Be Positive: Initial Goodbye
+Be Positive: Return Goodbye
+Be Negative
+OTHER

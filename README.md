@@ -13,7 +13,7 @@
 
 |もともと|略記|
 |:--|:--|
-|Backchannel|bc|
+|Backchannel|b|
 |Stall|s|
 |Fragment|f|
 |Inform|i|
@@ -22,7 +22,7 @@
 |Elicit-Inform: Choice Questions|ei.ch|
 |Elicit-Inform: Set Question|ei.s|
 |Suggest|sg|
-|Offer|o|
+|Offer|of|
 |Elicit offer-or-suggestion|eos|
 |Assess: Agreement|a.ag|
 |Assess: Disagreement|a.da|
@@ -47,7 +47,7 @@
 |Be Positive: Initial Goodbye|bp.ig|
 |Be Positive: Return Goodbye|bp.rg|
 |Be Negative|bn|
-|OTHER|ot|
+|OTHER|o|
 
 ## Argumentationラベル
 

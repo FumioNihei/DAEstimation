@@ -49,6 +49,27 @@
 |Be Negative|bn|
 |OTHER|o|
 
+## どうやってラベル付ける？
+
+```
+<AMI label>/<書き起こし>
+```
+
+とりあえずスラッシュ区切りとする．
+
+例）`Inform`の場合；
+```
+i/唐揚げとかありますよね
+```
+
+例）`Elicit Assessment: Propositional Questionの場合；
+```
+ea.p/唐揚げはおいしいと思う？
+```
+
+
+# 以降議論の結果要らなくなった項目．のちに削除．
+
 ## Argumentationラベル
 
 |もともと|略記|
@@ -59,20 +80,10 @@
 |Concession|c|
 |Others|o|
 
-## どうやってラベル付ける？
-
-```
-<AMI label>/<argumentation label>
-```
-
-とりあえずスラッシュ区切りとする．
-
-
 例）`Inform`かつ`Assertion`の場合；
 ```
 i/a
 ```
-
 
 例）`Elicit Assessment: Propositional Question`かつ`Question`の場合；
 ```

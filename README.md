@@ -4,7 +4,6 @@
 以下の順序で読むこと．
 - [作業の概要](./manuals/Manual.md)
 - [AMIラベル](./manuals/AMI.md)
-- [議論ラベル](./manuals/Argumentation.md)
 - [付録](./manuals/Appendix.md)
 
 # 各ラベルの省略記法
@@ -62,7 +61,7 @@
 i/唐揚げとかありますよね
 ```
 
-例）`Elicit Assessment: Propositional Questionの場合；
+例）`Elicit Assessment: Propositional Question`の場合；
 ```
 ea.p/唐揚げはおいしいと思う？
 ```

@@ -114,7 +114,7 @@ B) まあそうですね．
     
     ```
     <例>
-    A) 猫と犬で、一般的によく飼われているのは猫ですよね。<Elicit-Inform.`Choice Question>
+    A) 猫と犬で、一般的によく飼われているのは猫ですよね。<Elicit-Inform.Choice Question>
     B) だと思います。
 ```
     
@@ -122,7 +122,7 @@ B) まあそうですね．
     
     ```
     <例>
-    A) 猫は何を食べるんですか？<Elicit-Inform.`Set Question>
+    A) 猫は何を食べるんですか？<Elicit-Inform.Set Question>
     B) 主にキャットフードです。
     ```
 
@@ -176,33 +176,33 @@ B) もう一度お互いの意見をじっくり話し合った方がいいと�
 1. `Agreement`: 発言者は対話相手に肯定的なフィードバックを与え，発言者は概して対話相手の表現に同意する．
     ```
     A) 猫は世界一かわいいと思うんです。
-    B) 確かにそうかもしれません． / いいですね． / 賛成です． / そう思います．<Agreement>
+    B) 確かにそうかもしれません． / いいですね． / 賛成です． / そう思います．<Assess.Agreement>
     ```
 
 1. `Disagreement`: 発言者は対話相手に否定的なフィードバックを与え，発言者は概して対話相手の表現に同意しない．
     ```
     A) 猫は世界一かわいいと思うんです。
-    B) 私はそうは思いません． / そうでしょうか． / 賛成しかねます． / そうは思いません．<Disagreement>
+    B) 私はそうは思いません． / そうでしょうか． / 賛成しかねます． / そうは思いません．<Assess.Disagreement>
     ```
 
 1. `Correction`: 発言者は対話相手の発言に同意しない，あるいは対話相手の発言の間違いを認識してより正確な情報を提供する．
     ```
     A) 猫ほどかわいい生き物はいないのだと。
-    B) 犬の方がかわいいと思いますけど。<Correction>
+    B) 犬の方がかわいいと思いますけど。<Assess.Correction>
     ```
     - 直前の対話相手の発言が情報提供でも該当することができる
 
 1. `Answer`: 対話相手からの質問に発言者が答えることで不確実性が解消される．  
     ```
     A) 猫はかわいいと思う？
-    B) 思いますよ。 / 思わないです。<Answer>
+    B) 思いますよ。 / 思わないです。<Assess.Answer>
     ```
     - ***`Elicit Assessment`への返答は全て該当する***
 
 1. `Confirm`: 発言者は対話相手に肯定的なフィードバックを与え，また発言者は一般的に対話相手の表現に同意する．
     ```
     A) やっぱり世界一かわいいのは猫なのかなぁ
-    B) 私もそんな気がします。 <Confirm>
+    B) 私もそんな気がします。 <Assess.Confirm>
     ```
     - 対話相手の主張の強さが弱い場合，`Agreement`ではなく`Confirm`が該当する
     - この場合，対話相手は自身の発言が正しいと判断する
@@ -210,7 +210,7 @@ B) もう一度お互いの意見をじっくり話し合った方がいいと�
 1. `Disconfirm`: 発言者は対話相手に否定的なフィードバックを与え，また発言者は一般的に対話相手の表現に同意しない．
     ```
     A) やっぱり世界一かわいいのは猫なのかなぁ
-    B) いえ、そんなことはない気がします。 <Disconfirm>
+    B) いえ、そんなことはない気がします。 <Assess.Disconfirm>
     ```
     - 対話相手の主張の強さが弱い場合，`Disagreement`ではなく`Disconfirm`が該当する
     - この場合，対話相手は自身の発言が誤りであると判断する
@@ -225,7 +225,7 @@ B) もう一度お互いの意見をじっくり話し合った方がいいと�
 1. `Propositional Question`: 対話相手が「はい」あるいは「いいえ」で返答できるような質問．発言者には正誤を確かめる意図がある．
     ```
     A) 私は猫が好きなんだ。
-    A) 猫はかわいいと思う？<Propositional Question>
+    A) 猫はかわいいと思う？<Elicit Assessment.Propositional Question>
     B) 思いません
     ```
 
@@ -233,7 +233,7 @@ B) もう一度お互いの意見をじっくり話し合った方がいいと�
     
     ```
     A) 私は猫が好きなんだ。
-    A) 猫はかわいいよね。<Check Question>
+    A) 猫はかわいいよね。<Elicit Assessment.Check Question>
     B) そうでしょうか。
 ```
     
@@ -241,14 +241,14 @@ B) もう一度お互いの意見をじっくり話し合った方がいいと�
     
     ```
     A) 私は猫派なんですけど、
-    A) 猫と犬、どっちがかわいいと思う？<Choice Questions>
+    A) 猫と犬、どっちがかわいいと思う？<Elicit Assessment.Choice Questions>
     B) 犬です
 ```
     
 1. `Set Question`: wh質問のような，オープンクエスチョンでの質問．発言者は，対話相手が問題についてより多くの情報を提供することができ，その情報を交換したりすることにより，効率的に結論を引き出すことができると信じている． 
      ```
     A) 私は猫派なんですけど、
-    A) 猫と犬、どっちがかわいいと思う？<Set Question>
+    A) 猫と犬、どっちがかわいいと思う？<Elicit Assessment.Set Question>
     B) 犬です
     ```
 
@@ -298,44 +298,44 @@ B) わかりました？ / 聞いてました？ / 愛情表現が違うんで�
 
 1. `Initial Greeting`: 発言者によるはじめの挨拶．
     ```
-    A) こんにちは<Initial Greeting>
+    A) こんにちは<Be Positive.Initial Greeting>
     B) こんにちは
     ```
 
 1. `Return Greeting`: 対話相手のあいさつに対する応答としての挨拶．
     ```
     A) こんにちは
-    B) こんにちは<Return Greeting>
+    B) こんにちは<Be Positive.Return Greeting>
     ```
 
 1. `Initial Self-introduction`: 発言者によるはじめの自己紹介．
     ```
-    A) 私はAと申します<Initial Self-introduction>
+    A) 私はAと申します<Be Positive.Initial Self-introduction>
     B) Bです
     ```
 
 1. `Return Self-introduction`: 対話相手の自己紹介に対する応答としての自己紹介．
     ```
     A) 私はAと申します
-    B) Bです<Return Self-introduction>
+    B) Bです<Be Positive.Return Self-introduction>
     ```
 
 1. `Apology`: 自らの過失あるいは不完全性を認めたとき．
     ```
-    A) ごめんなさい / すいません<Apology>
+    A) ごめんなさい / すいません<Be Positive.Apology>
     B) いえいえ
     ```
 
 1. `Accept Apology`: 発言者が対話相手側の謝罪を受け入れるとき．
     ```
     A) ごめんなさい 
-    B) いえいえ / 気にしないで<Accept Apology>
+    B) いえいえ / 気にしないで<Be Positive.Accept Apology>
     ```
 
 1. `Thanking`: 発言者が対話相手に感謝の意を示すとき．時には対話相手を称賛するために使用されることもある．
     ```
     A) 猫よりも愛情表現がはっきりしているからです
-    B) 素晴らしいご意見だと思います / すばらしい考察ですね / いい意見だと思います<Thanking>
+    B) 素晴らしいご意見だと思います / すばらしい考察ですね / いい意見だと思います<Be Positive.Thanking>
     A) ありがとう
     ```
 
@@ -343,19 +343,19 @@ B) わかりました？ / 聞いてました？ / 愛情表現が違うんで�
     ```
     A) 猫よりも愛情表現がはっきりしているからです
     B) 素晴らしいご意見だと思います
-    A) ありがとう / どういたしまして / いえいえ<Accept Thanking>
+    A) ありがとう / どういたしまして / いえいえ<Be Positive.Accept Thanking>
     ```
 
 1. `Initial Goodbye`: 発言者が対話相手に別れを告げ，終わりの時が来たと宣言するとき．
     ```
-    A) さよなら<Initial Goodbye>
+    A) さよなら<Be Positive.Initial Goodbye>
     B) では
     ```
 
 1. `Return Goodbye`: 他の対話相手によって宣言された別れに発言者が応答するとき．「さようなら」の表現だけでなく「そうだ，時間だね．」のような表現にもなりえることに注意すべき． 
     ```
     A) さよなら
-    B) では<Return Goodbye>
+    B) では<Be Positive.Return Goodbye>
     ```
 
 ## Be Negative

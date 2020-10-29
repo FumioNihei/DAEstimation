@@ -70,8 +70,6 @@ possible actionsは歪曲的な表現が使われることもあり，その場�
 
 参考にどうぞ．
 
-<img src="./figures/flow.png" width=100 style="display: block; margin: auto;">
-
 ![flow](./figures/flow.png)
 
 

@@ -3,14 +3,18 @@
 
 以下の順序で読むこと．
 - [作業の概要](./manuals/Manual.md)
-- [AMIラベル](./manuals/AMI.md)
+- [ラベル詳細](./manuals/AMI.md)
 - [付録](./manuals/Appendix.md)
 
-# 各ラベルの省略記法
+# ラベルの振り方
 
-## AMIラベル
+```
+<label>/<書き起こし>
+```
 
-|もともと|略記|
+`<label>`には定義されたラベルの略記（下表参照）を記入すること．
+
+|ラベル|略記|
 |:--|:--|
 |Backchannel|b|
 |Stall|s|
@@ -48,43 +52,14 @@
 |Be Negative|bn|
 |OTHER|o|
 
-## どうやってラベル付ける？
+## 具体例
 
-```
-<AMI label>/<書き起こし>
-```
-
-とりあえずスラッシュ区切りとする．
-
-例）`Inform`の場合；
+例1）`Inform`の場合；
 ```
 i/唐揚げとかありますよね
 ```
 
-例）`Elicit Assessment: Propositional Question`の場合；
+例2）`Elicit Assessment: Propositional Question`の場合；
 ```
 ea.p/唐揚げはおいしいと思う？
-```
-
-
-# 以降より，議論の結果要らなくなった項目．後日に削除．
-
-## Argumentationラベル
-
-|もともと|略記|
-|:--|:--|
-|Assertion|a|
-|Question|q|
-|Retraction|r|
-|Concession|c|
-|Others|o|
-
-例）`Inform`かつ`Assertion`の場合；
-```
-i/a
-```
-
-例）`Elicit Assessment: Propositional Question`かつ`Question`の場合；
-```
-ea.p/q
 ```

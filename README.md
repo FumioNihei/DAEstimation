@@ -131,12 +131,6 @@ f:i/私は
 
 一般論として，文末表現が「ね」「よね」の場合，`elicit-assessment`であることが多い．
 
-## assess vs. eliit-assessment
-
-a ea, 対象があるかどうか
-
-実例を見て思い出そう...
-
 ## elicit-inform vs. eliit-assessment
 事実情報を尋ねる意図が強ければ，`elicit-inform`である．一方で評価を尋ねる場合は`eliit-assessment`である．
 

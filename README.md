@@ -49,8 +49,8 @@
 |Be Positive: Accept Apology|bp.aa|
 |Be Positive: Thanking|bp.t|
 |Be Positive: Accept Thanking|bp.at|
-|Be Positive: Initial Goodbye|bp.ig|
-|Be Positive: Return Goodbye|bp.rg|
+|Be Positive: Initial Goodbye|bp.ib|
+|Be Positive: Return Goodbye|bp.rb|
 |Be Negative|bn|
 |OTHER|o|
 
@@ -117,7 +117,7 @@ f:i/私は
 ## assess
 `assess`には評価する対象が必要である．言い換えれば，既に登場しているトピックについてのみ`assess`を使用することができる．
 
-例外として，別のトピックについて現在議論している場合，以前のトピックに関しては`assess`できないこととする．
+例外として，別のトピックについて現在議論している場合，以前のトピックに関しては`assess`できないこととする．基準としては，1分過去に議論されたトピックについては`assess`できない．
 
 `assess`の対象は会話グループの共有情報に限定する．共有情報とは，会話グループのメンバーのいずれかに発言に含まれる情報であり，グループメンバー全員が認識した情報である．その一方，会話参加者は各自資料を参照しながら議論しているが，資料に書いてあるだけでは共有情報とは認めない．
 

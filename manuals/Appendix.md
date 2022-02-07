@@ -70,6 +70,8 @@ possible actionsは歪曲的な表現が使われることもあり，その場�
 
 参考にどうぞ．
 
+ラベルは上から高優先度です．
+
 ![flow](./figures/flow.png)
 
 

@@ -214,7 +214,7 @@ B) もう一度お互いの意見をじっくり話し合った方がいいと�
 ## Elicit Assessment
 発言者が対話相手からの評価を求めるときの発言．
 
-`Elicit offer-or-suggement`の区別は，発言が未来に何をすべきかについての発言であれば`Elicit offer-or-suggement`であり，過去についての発言または過去の発言であれば`Elicit Assessment`である． 
+`Elicit offer-or-suggestion`の区別は，発言が未来に何をすべきかについてのものであれば`Elicit offer-or-suggestion`であり，発言が過去についてのもの，または過去に生じた発言についてのものであれば`Elicit Assessment`である． 
 
 `Elicit-Assessment` には4つのサブカテゴリがある．これらサブカテゴリは`Elicit-inform`のものと同一である．
 

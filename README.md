@@ -128,7 +128,7 @@ ea.p/唐揚げはおいしいと思う？
 ## elicit-inform vs. eliit-assessment
 事実情報を尋ねる意図が強ければ，`elicit-inform`である．一方で評価を尋ねる場合は`eliit-assessment`である．
 
-ここで，`elicit-inform`と`eliit-assessment`はともに，部分ラベルである`Propositional Question`を持つ．`Propositional Question`は「はい」か「いいえ」で返答が可能な問いかけである．従って`elicit-inform (Propositional Question)`は，事実情報を「はい」か「いいえ」で返答することを尋ねるもの（例：猫は哺乳類ですか？）であり，`elicit-assessment (Propositional Question)`は，「はい」か「いいえ」で評価することを尋ねるもの（例：猫は良いと思いますか？）である．
+ここで，`elicit-inform`と`eliit-assessment`はともに，部分ラベルである`Propositional Question`を持つ．`Propositional Question`は「はい」か「いいえ」で返答が可能な問いかけである．従って`elicit-inform (Propositional Question)`は，事実情報を「はい」か「いいえ」で返答することを尋ねるもの（例：猫は哺乳類ですか？）であり，`elicit-assessment (Propositional Question)`は，「はい」か「いいえ」で評価することを尋ねるもの（例：猫は良いと思いますか？）である．評価の定義は[こちら](https://github.com/FumioNihei/DAEstimation/blob/master/manuals/AMI.md#assess)に譲る．
 
 ## inform vs. suggest
 [付録](./manuals/Appendix.md)も参照のこと．
